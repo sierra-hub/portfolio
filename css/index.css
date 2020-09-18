@@ -148,3 +148,35 @@ margin-right: 200px;
   #contact .container img {
     width: 75%;
   }
+  footer {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    color: #fff;
+  }
+  footer a {
+    color: #fff;
+  }
+  footer a:hover {
+    color: #444;
+  }
+  footer h3 {
+    text-align: center;
+    margin-bottom: 4%;
+  }
+  footer div {
+    width: 33%;
+  }
+  footer div nav {
+    position: static;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+  footer div nav a {
+    margin: 2% 0;
+    color: #fff;
+  }
+  footer div nav a:hover {
+    color: #444;
+  }
