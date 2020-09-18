@@ -112,3 +112,13 @@ margin-right: 200px;
     color: hotpink;
 
   }
+  header {
+    margin-top: 5.5%;
+    height: 90vh;
+    background-image: url('https://chancen-eg.de/wp-content/uploads/2018/11/Studiportrait_Sierra-Teta-Kibondo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
