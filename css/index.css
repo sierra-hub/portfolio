@@ -71,3 +71,44 @@ section {
   a:hover {
     color: #fcb131;
   }
+  /* Homepage */
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1%;
+    width: 100%;
+
+  }
+  nav .logo {
+    width: 10%;
+    align-items: center;
+
+  }
+  nav .logo a {
+    color: #444;
+  }
+  nav .teta {
+    width: 10%;
+  }
+  nav .teta a {
+    color: #444;
+  }
+
+  nav .links {
+    width: 60%;
+    display: flex;
+    justify-content: space-evenly;
+align-content: center;
+margin-right: 200px;
+    
+  }
+  nav .links a {
+    letter-spacing: 3px;
+    color: #444;
+    
+  }
+  nav .links a:hover {
+    color: hotpink;
+
+  }
