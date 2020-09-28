@@ -13,7 +13,7 @@ Project setup instructions
 </ul>
 <br>
 <br>
-link to live site on GitHub Pages: https://github.com/sierra-hub/portfolio
+link to live site on GitHub Pages: https://sierra-hub.github.io/portfolio/
 <br>
 <br>
 copyright and license information
